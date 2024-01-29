@@ -1,0 +1,4 @@
+C:\msys64\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\Lenovo\Desktop\untitled3 -B C:\Users\Lenovo\Desktop\untitled3\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Lenovo/Desktop/untitled3/cmake-build-debug

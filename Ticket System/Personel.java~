@@ -1,0 +1,9 @@
+public class Personel extends Person{
+  
+  public Personel(String firstName, String lastName) {
+        super(firstName, lastName);
+    }
+   public static void main(String[] args) {
+   
+}
+}

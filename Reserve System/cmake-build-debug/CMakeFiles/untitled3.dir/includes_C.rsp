@@ -1,0 +1,1 @@
+-isystem C:/msys64/mingw64/bin/../include/SDL2 -isystem C:/msys64/mingw64/bin/../include/libpng16 -isystem C:/msys64/mingw64/bin/../include/harfbuzz -isystem C:/msys64/mingw64/bin/../include/freetype2 -isystem "C:/msys64/mingw64/bin/../include/glib-2.0" -isystem "C:/msys64/mingw64/bin/../lib/glib-2.0/include"

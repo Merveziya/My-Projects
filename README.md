@@ -1,7 +1,7 @@
 <h1>RESERVE SYSTEM </h1>
 
 
-This project aims to enhance file reading, data visualization, and various computational abilities. The research process unfolds in two stages. 
+This project aims to enhance file reading, data visualization, and various computational abilities using C language. The research process unfolds in two stages. 
 In the first stage, coordinates are extracted from a given webpage URL to form 2D geometric shapes, calculating their areas to determine resource reserves. 
 These coordinates form closed polygons, with the polygon's area representing 1/10 of the resource reserve.
 In the second stage, the reserve areas of these polygons are partitioned into square parcels for drilling and resource operations, subject to constraints like drilling in the most extreme areas, minimizing platform count for cost efficiency,
@@ -23,7 +23,7 @@ Following thorough analysis and adjustments to rectify drawing errors, algorithm
 
 
 
-This project is focused on the development of OOP information systems to bolster fundamental programming skills and problem-solving capabilities.
+This project is focused on the development of OOP information systems to bolster fundamental programming skills and problem-solving capabilities using Java language.
 It entails the creation of a comprehensive reservation platform enabling passengers to book travel with various transportation providers, spanning railways, roadways, and airways. 
 The system architecture is designed with distinct admin, company, and user interfaces, each tailored to streamline interactions and facilitate efficient operations.
 Leveraging Object-Oriented Programming principles, the JavaFX application encompasses essential classes. 
